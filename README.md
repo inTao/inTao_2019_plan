@@ -1,6 +1,5 @@
-# inTao_2019_plan
+# inTao_2021_plan
 
-## java MVP项目
 ## kotlin 学习
+## 完成mvvm框架的了解
 ## 看俩个源码
-## 
